@@ -61,6 +61,6 @@ It helps monitor key marketing KPIs like:
 - `Screen Shot Dashboard .png` — скриншот дашборда
 
 ---
-![Dashboard Preview](./Screen Shot Dashboard .png)
+![Dashboard Preview](./Screen%20Shot%20Dashboard%20.png)
 
 Created for portfolio and learning purposes. Feel free to reuse or contribute.
