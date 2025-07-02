@@ -58,9 +58,9 @@ It helps monitor key marketing KPIs like:
 - `metrika_raw.csv` — сессии и лиды с Яндекс.Метрики
 - `revenue_data.csv` — выручка по дням
 - `marketing_dashboard.sqlite` — база SQLite для практики SQL
-- `dashboard_screenshot.png` — скриншот дашборда
+- `Screen Shot Dashboard .png` — скриншот дашборда
 
 ---
-![Dashboard Preview](./Screen Shot Dashboard.png)
+![Dashboard Preview](./Screen Shot Dashboard .png)
 
 Created for portfolio and learning purposes. Feel free to reuse or contribute.
